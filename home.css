@@ -1,0 +1,9 @@
+.home {
+    text-align: center;
+    padding: 50px;
+}
+
+.profile-pic {
+    width: 150px;
+    border-radius: 50%;
+}
